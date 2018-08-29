@@ -24,11 +24,12 @@ The Water and gas flow sensor have three pin.
 - Yellow wire for signal.
 Connect the signal wire with netduino D3 and D4 pin respectively for GAS and Water sensor. The more details about those sensors are available in [SeeedStudio](https://www.seeedstudio.com/G1&2%22-Water-Flow-Sensor-p-635.html). Please refer their wiki page.
 ![circuit diagram-01.](/figure/current.png)
+
 The circuit diagram shows; how current sensor is used for determining the load.
 ## IoT Cloud
 Thinger.io IoT cloud platform is used here for building the project. An account is mandatory for connecting the device with thinger.io. please refer the [thinger.io](http://docs.thinger.io/arduino) documentation section for more details about device connectivity and others.
 ## Mobile Apps
 A mobile application for remotely monitoring the utilities usages is also developed. The application is directly connected with iot-cloud and it visualizes the real-time information of every meter. Refer the demonstration section for more details. An open-source android application development platform is used for developing the apps.
-***The APK file is available in my git repository. 
+</br>**The APK file is available in my git repository** 
 ## Demo
 ## Setting up Netduino with Visual studio 2015
