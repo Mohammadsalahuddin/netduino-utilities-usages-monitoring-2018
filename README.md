@@ -24,7 +24,7 @@ The Water and gas flow sensor have three pin.
 - Black wire for GND.
 - Yellow wire for signal.
 Connect the signal wire with netduino D3 and D4 pin respectively for GAS and Water sensor. The more details about those sensors are availabe in [SeeedStudio](https://www.seeedstudio.com/G1&2%22-Water-Flow-Sensor-p-635.html). Please refer their wiki page.
-![cicruit diagram-01.](/figure/current.jpg)
+![cicruit diagram-01.](/figure/current.png)
 
 ## Demo
 ## 
