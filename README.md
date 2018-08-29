@@ -32,4 +32,5 @@ Thinger.io IoT cloud platform is used here for building the project. An account 
 A mobile application for remotely monitoring the utilities usages is also developed. The application is directly connected with iot-cloud and it visualizes the real-time information of every meter. Refer the demonstration section for more details. An open-source android application development platform is used for developing the apps.
 </br>**The APK file is available in my git repository** 
 ## Demo
+[video Demo](https://youtu.be/kCX88yjWsZo)
 ## Setting up Netduino with Visual studio 2015
