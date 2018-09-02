@@ -34,3 +34,5 @@ A mobile application for remotely monitoring the utilities usages is also develo
 ## Demo
 [video Demo](https://youtu.be/kCX88yjWsZo)
 ## Setting up Netduino with Visual studio 2015
+Check the Hackster.io </br>
+[Getting started guide](https://www.hackster.io/salahuddin/real-time-utilities-usage-monitoring-system-based-on-iot-4e5988)
